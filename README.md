@@ -1,11 +1,16 @@
-### Hi there 👋
+### Hi, I'm Paco 👋
 
-- 🌱 I’m currently learning about security on AWS.
-- 👯 I’m looking to collaborate on AWS projects.
-- 💬 Ask me about architecture on AWS.
+Lover of herbal teas, technology and sports.
+
+- 🌱 I’m currently learning about Security on AWS.
 - 📫 How to reach me:
-    - 🖇 https://twitter.com/galfordss
-    - 🖇 https://www.linkedin.com/in/franciscogonzaleztroyano/
+    [![Twitter Follow](https://img.shields.io/twitter/follow/francotroyano?style=social)](https://twitter.com/galfordss)
+    [![Linkedin: franciscogonzaleztroyano](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/franciscogonzaleztroyano/)](https://www.linkedin.com/in/franciscogonzaleztroyanoi/)
+
+
+
+
+
   
 <!--
 **francotroyano/francotroyano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
