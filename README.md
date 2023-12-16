@@ -3,16 +3,11 @@
 Lover of herbal teas, fighting videogames, project management, gym and technology.
 - :man_office_worker: IT Project Manager <sub>with **10 years of experience**</sub>
 - :man_technologist: 5 x AWS certified <sub>including **AWS Solutions Architect Professional**</sub>[^1]
-- :sunny: Located in Seville, Spain.
-- Spanish and English speaker.
+- :speech_balloon: Spanish and English speaker.
 
 🌱 I am currently preparing for...
 - [x] _AWS Solutions Architect Professional certification exam_
 - [ ] _PMP certification exam_
-
-📫 How to reach me:
--   [![Twitter Follow](https://img.shields.io/twitter/follow/francotroyano?style=social)](https://twitter.com/galfordss)
--   [![Linkedin: franciscogonzaleztroyano](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/franciscogonzaleztroyano/)](https://www.linkedin.com/in/franciscogonzaleztroyanoi/)
 
 > Follow best practices and keep it simple
 
