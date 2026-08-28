@@ -7,7 +7,6 @@ Lover of herbal teas, fighting videogames, project management, gym and technolog
 - :speech_balloon: Spanish and English speaker.
 
 🌱 I am currently preparing for...
-- [x] _AWS Solutions Architect Professional certification exam_
 - [ ] _PMP certification exam_
 
 > Follow best practices and keep it simple
