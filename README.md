@@ -4,7 +4,7 @@ Lover of herbal teas, fighting videogames, project management, gym and technolog
 - :man_office_worker: IT Project Manager <sub>with **15 years of experience**</sub>
 - :man_office_worker: IT Gobernance and Processes
 - :man_technologist: 5 x AWS certified <sub>including **AWS Solutions Architect Professional**</sub>[^1]
-- :man_technologist: Professional Scrum Master[^1]
+- :man_technologist: Professional Scrum Master[^2]
 - :speech_balloon: Spanish and English speaker.
 
 🌱 I am currently preparing for...
@@ -14,6 +14,7 @@ Lover of herbal teas, fighting videogames, project management, gym and technolog
 > Follow best practices and keep it simple
 
 [^1]: AWS Solutions Architect Professional and Associate, AWS Developer Associate, AWS SysOps Associate and AWS Cloud Practitioner.
+[^2]: Professional Scrum Master I (PSM I) issued by Scrum.org
   
 <!--
 **francotroyano/francotroyano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
